@@ -1,3 +1,3 @@
 # example-ta-git
 ให้ทาย_ลองกดดู เห้ย
-fshhshsdh
+1+1=2
